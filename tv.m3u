@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-name="新闻综合",新闻综合
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=ca863aac1070492b812ffe75cfdce9ac&volcTime=1705620606
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=24b40222843f58496dd742d3d04ad06d&volcTime=1705620429
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
