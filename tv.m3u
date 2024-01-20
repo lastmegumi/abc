@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-name="新闻综合",新闻综合
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=f1da1ffa3d0617710ea4ed6dba7063c0&volcTime=1705773330
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=98a6b8d8feffff166526a1a032cbca1a&volcTime=1705880218
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=67f831e235ff6b1e5ca9c9fa4f8ead5d&volcTime=1705773301
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=3c98c3edecb0ac9b6ad46abae8391465&volcTime=1705880202
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn",CCTV+ 2 (600p) [Not 24/7]
