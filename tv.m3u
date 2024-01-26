@@ -7,9 +7,9 @@ https://hls.ulivetv.net/v/live/d82jb5ko4r9c.m3u8?stream_id=d82jb5ko4r9c&timestam
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 https://hls.ulivetv.net/v/live/d82jfkev6vb4.m3u8?stream_id=d82jfkev6vb4&timestamp=1705863543&rand=rBZdD4aqDd&uuid=ob3wvNLBNMHLPbc8Y23NRe&from=web&sign=7b09c2145a9658e834d1108abccdbd09&stream_id=d82jfkev6vb4
 #EXTINF:-1 tvg-name="新闻综合",新闻综合
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4bc68cec0185dee7e43161855b413498&volcTime=1706312148
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=98b6bc22c53d5d51fb08bed4cc0c92fb&volcTime=1706398748
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=209b46db7e9491bd55d85b7e8b8a31b8&volcTime=1706312122
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=9c6e81356b8f7614273a78e96e461921&volcTime=1706398733
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn",CCTV+ 2 (600p) [Not 24/7]
