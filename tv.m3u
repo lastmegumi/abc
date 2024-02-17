@@ -11,9 +11,9 @@ https://volc-stream.kksmg.com/live/xwzh/xwzh-ss-3532176660-1708018003-20240216T0
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=94fb849b9290f06c57649a75e58188bc&volcTime=1708127141
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=1beed74d323371bc8285781d4c9936f6&volcTime=1708215357
 #EXTINF:-1 tvg-id="CCTVPlus2.cn",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=86ff0efd26f3d7b3167fe52c8f007d68&volcTime=1708215333
 #EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1综合 (1080p)
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1综合 (576p)
