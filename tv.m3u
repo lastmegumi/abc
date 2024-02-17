@@ -9,7 +9,7 @@ https://hls.ulivetv.net/v/live/d82jfkev6vb4.m3u8?stream_id=d82jfkev6vb4&timestam
 #EXTINF:-1 tvg-name="新闻综合",新闻综合
 https://volc-stream.kksmg.com/live/xwzh/xwzh-ss-3532176660-1708018003-20240216T074530.ts?volcDst=MTAuMjcuNTMuMzg
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=94fb849b9290f06c57649a75e58188bc&volcTime=1708127141
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=f3af46cf4cd7af477a809977cc351762&volcTime=1708298298
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=1beed74d323371bc8285781d4c9936f6&volcTime=1708215357
 #EXTINF:-1 tvg-id="CCTVPlus2.cn",CCTV+ 2 (600p) [Not 24/7]
